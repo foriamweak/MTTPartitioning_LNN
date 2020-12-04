@@ -2,8 +2,11 @@
 
 This is the official repository of source codes, models and dataset for the paper "A Fast Multi-Type Tree Partitioning for Versatile Video Coding with a Lightweight Neural Network," submitted to IEEE Transactions on Multimedia firstly Feb. 23, 2020, and now in press. See the link (https://ieeexplore.ieee.org/document/9277576)
 
+* Executable Files --> "run_windowsEXE" https://github.com/foriamweak/MTTPartitioning_LNN/tree/master/run_windowsEXE
 We uploaded executable files with encoding configurations and batch files containing parameters to result in tables of submitted paper. Note that executable files (.exe files) have been compiled using VS 2017 on Windows 10. The base software is VTM 4.0 (official site to download is as follows. https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tags/VTM-4.0)
 
+* Entire Project --> https://github.com/foriamweak/MTTPartitioning_LNN/blob/master/AllProject.7z
+This 7-zip file contain the entire project of the proposed method on top of VTM 4.0. When you unzip this file, you additionally need to configure and generate VS2017 solution via CMake.
 
 Citation:
 S. Park and J. Kang, "Fast Multi-type Tree Partitioning for Versatile Video Coding Using a Lightweight Neural Network," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2020.3042062.
