@@ -18,7 +18,8 @@ The dataset has been built during encoding by VTM 4.0. TT_H means the data for h
 
 Originally, the above dataset has been trained using LNN based on C++, but for those who are not familiar with C++, a python code is shared herein. In this folder, a python code "intraNN_mlp_cpu.py" shows how to build LNN as well as how to prepare the dataset for LNN.
 
-Citation:
+* Citation:
+
 S. Park and J. Kang, "Fast Multi-type Tree Partitioning for Versatile Video Coding Using a Lightweight Neural Network," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2020.3042062.
 
 @ARTICLE{9277576,
