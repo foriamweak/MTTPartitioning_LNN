@@ -11,6 +11,7 @@ We uploaded executable files with encoding configurations and batch files contai
 This 7-zip file contain the entire project of the proposed method on top of VTM 4.0. When you unzip this file, you additionally need to configure and generate VS2017 solution via CMake.
 
 + Dataset to train --> "dataset"
+
 ** NOTE: dataset for TT_V has been revised, 2021-04-15. See the file "ttv_lowCTC_qp30.csv"
 
 The dataset has been built during encoding by VTM 4.0. TT_H means the data for horizontal TT split, and TT_V means the data for vertical TT split. This dataset was used to train LNN models defined in the paper.
